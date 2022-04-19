@@ -98,12 +98,6 @@ public class HlavniProgram {
         zofka.turnRight(90);
         zofka.penDown();
 
-        //zofka.penUp();
-        //zofka.turnLeft(135);
-        //zofka.move(100);
-        //malyDomek(zofka);
-
-
         pismenoP(zofka);
         pismenoA(zofka);
         pismenoV(zofka);
