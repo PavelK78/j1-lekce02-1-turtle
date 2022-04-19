@@ -11,7 +11,7 @@ public class HlavniProgram {
 
 
 
-        /* část 1 + 2
+        /* část 1+2
 
         prase(zofka);
 
